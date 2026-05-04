@@ -14,3 +14,12 @@ programer and gamer
 
 <p align="left"> <a href="https://www.github.com/stephenruelas155" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
+Final project: Stephen's portfolio 
+
+Description:
+It is a website that employers can use to look through all of past web based projects.
+users can search and filter through my projects based off thier name or the type of website they are.
+It contains links to both the repos and actual sites for each project.
+
+Repo:
+https://github.com/stephenruelas155-coder/animated-octo-adventure-final
